@@ -10,6 +10,6 @@ var m = (today.getHours() > 12)? " PM":" AM";
 var dayArray = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
 
 function todayIs(){
-console.log('Day today is: ' + dayArray[day]);
+console.log('Today is: ' + dayArray[day]);
 console.log('Current Time is: ' + hour + ':' + minutes + ':' + seconds + "" + m);
 }

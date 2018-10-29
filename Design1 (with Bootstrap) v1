@@ -356,7 +356,7 @@ footer{
 .headList li a{
 	display: block;
 	color:white;
-	padding-left: 1em;
+	padding-left: 0.5em;
 }
 .headList li a:hover{
 	color:white;
